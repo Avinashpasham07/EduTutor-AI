@@ -63,12 +63,12 @@ OPENROUTER_MODEL=mistralai/mixtral-8x7b
 pip install -r requirements.txt
 ```
 
-## 7. Run the app:
+### 7. Run the app:
 
 ```bash
 streamlit run app.py
 ```
-### Outputs
+## Outputs
 ---
 ![Image](https://github.com/user-attachments/assets/bdd8af3d-84c9-4f25-a033-a106e277f8e6)
 
