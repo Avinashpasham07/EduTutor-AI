@@ -41,11 +41,4 @@ pip install -r requirements.txt
 7.Run the app:
 streamlit run app.py
 
-Acknowledgments
-OpenRouter for providing AI models.
-
-Streamlit for creating an interactive front-end.
-
-Flask for building a lightweight backend API.
-
 
