@@ -15,6 +15,7 @@ git clone https://github.com/Avinashpasham07/EduTutor-AI.git
 
 2.Navigate into the project directory:
 cd EduTutor-AI
+
 3.Set up a virtual environment:
 python -m venv venv
 
