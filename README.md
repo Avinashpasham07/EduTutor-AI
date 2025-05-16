@@ -30,7 +30,9 @@ source venv/bin/activate
 
 In the .env file, add the following content:
 OPENAI_API_KEY=your_openai_api_key
+
 OPENAI_API_BASE=https://openrouter.ai/api/v1
+
 OPENROUTER_MODEL=mistralai/mixtral-8x7b
 
 6.Install the required dependencies:
