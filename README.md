@@ -1,4 +1,5 @@
 EduTutor AI - Personalized Learning & Assessment System
+
 EduTutor AI is an innovative platform designed to enhance the learning experience for students by providing personalized learning paths, quizzes, flashcards, and AI-driven content generation. It uses machine learning and AI technologies to provide real-time feedback and suggestions for improvement, making it a comprehensive tool for students and educators alike.
 
 Tech Stack
