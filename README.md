@@ -9,15 +9,19 @@ Machine Learning: OpenRouter's Mixtral Model via LangChain (for AI-based content
 Other Technologies: Python,HTML, CSS, JavaScript
 
 Installation
+
 To set up the project locally, follow these steps:
 
 1.Clone the repository:
+
 git clone https://github.com/Avinashpasham07/EduTutor-AI.git
 
 2.Navigate into the project directory:
+
 cd EduTutor-AI
 
 3.Set up a virtual environment:
+
 python -m venv venv
 
 4.Activate the virtual environment:
@@ -39,9 +43,11 @@ OPENAI_API_BASE=https://openrouter.ai/api/v1
 OPENROUTER_MODEL=mistralai/mixtral-8x7b
 
 6.Install the required dependencies:
+
 pip install -r requirements.txt
 
 7.Run the app:
+
 streamlit run app.py
 
 
