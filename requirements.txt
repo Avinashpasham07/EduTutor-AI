@@ -1,5 +1,7 @@
 streamlit
 langchain==0.1.13
 langchain-community==0.0.13
+openai
+requests
 python-dotenv
 JWT_SECRET_KEY=supersecretkey
